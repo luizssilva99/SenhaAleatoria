@@ -1,4 +1,4 @@
-<h1 align="center"> Juntar PDF </h1>
+<h1 align="center"> Gerador de senhas aleatórias </h1>
 
 ## Índice
 - <a href="tecnologias">Tecnologias utilizadas</a>
